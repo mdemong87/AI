@@ -28,8 +28,6 @@ const handleClick=async(e)=>{
   
 }
 
-console.log(data);
-
 
 
 function handleDown(e){
